@@ -1,0 +1,131 @@
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Presentacion-From.exe.config
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Presentacion-From.exe
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Presentacion-From.pdb
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.Properties.Resources.resources
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.exe
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.pdb
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Modelo.dll
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Negocio.dll
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Modelo.pdb
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Negocio.pdb
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.csproj.CopyComplete
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.frmArticulo.resources
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.Control.resources
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.frmCategoria.resources
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.frmMarca.resources
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.frmPrincipal.resources
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.CargarMarca.resources
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.CargarCategoria.resources
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Presentacion-From.exe.config
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Presentacion-From.exe
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Presentacion-From.pdb
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Modelo.dll
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Negocio.dll
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Modelo.pdb
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\bin\Debug\Negocio.pdb
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.CargarCategoria.resources
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.CargarMarca.resources
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.Control.resources
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.frmArticulo.resources
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.frmCategoria.resources
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.frmMarca.resources
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.frmPrincipal.resources
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion_From.Properties.Resources.resources
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.exe
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.pdb
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presenta.B19B650C.Up2Date
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Presentacion-From\obj\Debug\Presentacion-From.exe.config
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion-From.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion-From.exe
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion-From.pdb
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.CargarCategoria.resources
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.CargarMarca.resources
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.Control.resources
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.frmArticulo.resources
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.frmCategoria.resources
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.frmMarca.resources
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.frmPrincipal.resources
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.Properties.Resources.resources
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion-From.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion-From.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\bin\Debug\Presentacion-From.exe.config
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\bin\Debug\Presentacion-From.exe
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\bin\Debug\Presentacion-From.pdb
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\bin\Debug\Modelo.dll
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\bin\Debug\Negocio.dll
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\bin\Debug\Modelo.pdb
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\bin\Debug\Negocio.pdb
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Presentacion-From\obj\Debug\Presenta.B19B650C.Up2Date
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Presentacion-From.exe.config
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Presentacion-From.exe
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Presentacion-From.pdb
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Modelo.dll
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Negocio.dll
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Modelo.pdb
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Negocio.pdb
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion-From.csproj.AssemblyReference.cache
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.CargarCategoria.resources
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.CargarMarca.resources
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.Control.resources
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.frmArticulo.resources
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.frmCategoria.resources
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.frmMarca.resources
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.frmPrincipal.resources
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion_From.Properties.Resources.resources
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion-From.csproj.GenerateResource.cache
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion-From.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presenta.B19B650C.Up2Date
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion-From.exe
+C:\Proyectos\Proyecto Bruno\Presentacion-From\obj\Debug\Presentacion-From.pdb
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\logo.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\sin_imagen.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\logo_marca.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\articulos\S01.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\articulos\M03.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\articulos\S99.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\articulos\S56.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\articulos\A23.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\articulos\C45.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\articulos\S65.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\articulos\S012.png
+C:\Proyectos\Proyecto Bruno\Presentacion-From\bin\Debug\Recursos\articulos\S157.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\logo.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\sin_imagen.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\logo_marca.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\articulos\S01.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\articulos\M03.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\articulos\S99.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\articulos\S56.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\articulos\A23.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\articulos\C45.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\articulos\S65.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\articulos\S012.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Recursos\articulos\S157.png
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Presentacion-From.exe.config
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Presentacion-From.exe
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Presentacion-From.pdb
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Modelo.dll
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Negocio.dll
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Modelo.pdb
+C:\Proyectos\PuntoTech\Presentacion-From\bin\Debug\Negocio.pdb
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion-From.csproj.AssemblyReference.cache
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion_From.CargarCategoria.resources
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion_From.CargarMarca.resources
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion_From.Control.resources
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion_From.frmArticulo.resources
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion_From.frmCategoria.resources
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion_From.frmMarca.resources
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion_From.frmPrincipal.resources
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion_From.Properties.Resources.resources
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion-From.csproj.GenerateResource.cache
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion-From.csproj.CoreCompileInputs.cache
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presenta.B19B650C.Up2Date
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion-From.exe
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion-From.pdb
+C:\Proyectos\PuntoTech\Presentacion-From\obj\Debug\Presentacion_From.frmLogin.resources

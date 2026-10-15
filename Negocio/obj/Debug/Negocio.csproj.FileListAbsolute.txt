@@ -1,0 +1,45 @@
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\bin\Debug\Negocio.dll
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\bin\Debug\Modelo.dll
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\bin\Debug\Modelo.pdb
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\obj\Debug\Negocio.dll
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\bin\Debug\Negocio.dll
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\bin\Debug\Modelo.dll
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\bin\Debug\Modelo.pdb
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\obj\Debug\Negocio.dll
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\obj\Debug\Negocio.pdb
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Negocio\bin\Debug\Negocio.dll
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Negocio\bin\Debug\Negocio.pdb
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Negocio\bin\Debug\Modelo.dll
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Negocio\bin\Debug\Modelo.pdb
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Negocio\obj\Debug\Negocio.dll
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Negocio\obj\Debug\Negocio.pdb
+C:\Proyectos\Proyecto Bruno\Negocio\bin\Debug\Negocio.dll
+C:\Proyectos\Proyecto Bruno\Negocio\bin\Debug\Negocio.pdb
+C:\Proyectos\Proyecto Bruno\Negocio\bin\Debug\Modelo.dll
+C:\Proyectos\Proyecto Bruno\Negocio\bin\Debug\Modelo.pdb
+C:\Proyectos\Proyecto Bruno\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Proyectos\Proyecto Bruno\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyecto Bruno\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Proyectos\Proyecto Bruno\Negocio\obj\Debug\Negocio.dll
+C:\Proyectos\Proyecto Bruno\Negocio\obj\Debug\Negocio.pdb
+C:\Proyectos\PuntoTech\Negocio\bin\Debug\Negocio.dll
+C:\Proyectos\PuntoTech\Negocio\bin\Debug\Negocio.pdb
+C:\Proyectos\PuntoTech\Negocio\bin\Debug\Modelo.dll
+C:\Proyectos\PuntoTech\Negocio\bin\Debug\Modelo.pdb
+C:\Proyectos\PuntoTech\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Proyectos\PuntoTech\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\PuntoTech\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Proyectos\PuntoTech\Negocio\obj\Debug\Negocio.dll
+C:\Proyectos\PuntoTech\Negocio\obj\Debug\Negocio.pdb

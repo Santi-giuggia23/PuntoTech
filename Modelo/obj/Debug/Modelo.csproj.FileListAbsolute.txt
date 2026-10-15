@@ -1,0 +1,30 @@
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\bin\Debug\Modelo.dll
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\bin\Debug\Modelo.pdb
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\obj\Debug\Modelo.dll
+C:\Users\user\OneDrive\Escritorio\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\obj\Debug\Modelo.pdb
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\bin\Debug\Modelo.dll
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\bin\Debug\Modelo.pdb
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\obj\Debug\Modelo.dll
+C:\Users\user\OneDrive\Escritorio\UTN\nivel2-julio-proyecto-final-main\TP\PERENICHBRUNO-TRABAJOFINAL\Modelo\obj\Debug\Modelo.pdb
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Modelo\bin\Debug\Modelo.dll
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Modelo\bin\Debug\Modelo.pdb
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Modelo\obj\Debug\Modelo.dll
+C:\Users\santi\OneDrive\Desktop\Proyecto Bruno\Modelo\obj\Debug\Modelo.pdb
+C:\Proyectos\Proyecto Bruno\Modelo\bin\Debug\Modelo.dll
+C:\Proyectos\Proyecto Bruno\Modelo\bin\Debug\Modelo.pdb
+C:\Proyectos\Proyecto Bruno\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Proyectos\Proyecto Bruno\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyecto Bruno\Modelo\obj\Debug\Modelo.dll
+C:\Proyectos\Proyecto Bruno\Modelo\obj\Debug\Modelo.pdb
+C:\Proyectos\PuntoTech\Modelo\bin\Debug\Modelo.dll
+C:\Proyectos\PuntoTech\Modelo\bin\Debug\Modelo.pdb
+C:\Proyectos\PuntoTech\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Proyectos\PuntoTech\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Proyectos\PuntoTech\Modelo\obj\Debug\Modelo.dll
+C:\Proyectos\PuntoTech\Modelo\obj\Debug\Modelo.pdb
